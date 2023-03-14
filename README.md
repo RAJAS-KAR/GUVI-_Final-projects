@@ -21,7 +21,7 @@ customer Conversion Prediction to predict the customer will subcribe to insuranc
 3.Checking if the data is balanced or not and findout tha data is imbalanced 
 
 4. Done some EDA(exploratort data anlysis) to understand the distribution of the data
- 
+
 5. Encoding the catagorical featrue
  
 6. Using SMOTEENN to Balanced the data
